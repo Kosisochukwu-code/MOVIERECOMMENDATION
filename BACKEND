@@ -1,0 +1,7 @@
+/auth         - POST /register, /login
+/users        - GET /me, PUT /update
+/movies       - GET /search, /:id
+/favorites    - POST /add, DELETE /:movieId
+/watchlists   - GET, POST, PUT, DELETE
+/reviews      - POST /, GET /movie/:id
+/recommend    - GET /personalized
