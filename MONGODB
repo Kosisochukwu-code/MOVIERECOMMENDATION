@@ -1,0 +1,7 @@
+{
+  movieId: String,
+  userId: ObjectId,
+  rating: Number,
+  review: String,
+  createdAt: Date
+}
