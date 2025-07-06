@@ -1,0 +1,8 @@
+/client (React)
+/server (Express)
+├── models
+├── routes
+├── controllers
+├── middleware
+├── utils
+.env
